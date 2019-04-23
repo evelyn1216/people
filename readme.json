@@ -1,0 +1,266 @@
+{
+    "name": "flare",
+    "children": [
+
+     {
+      "name": "107",
+      "children": [
+       {
+        "name": "中台灣",
+        "children": [
+         {"name": "苗栗縣", "size": 246},
+         {"name": "台中市", "size": 1206},
+         {"name": "彰化縣", "size": 316},
+         {"name": "南投縣", "size": 113},
+         {"name": "雲林縣", "size": 223}
+        ]
+       },
+       {
+        "name": "北台灣",
+        "children": [
+         {"name": "台北市", "size": 1010},
+         {"name": "新北市", "size": 2261},
+         {"name": "基隆市", "size": 387},
+         {"name": "桃園市", "size": 1113},
+         {"name": "新竹市", "size": 165},
+         {"name": "新竹縣", "size": 120},
+         {"name": "宜蘭縣", "size": 105}
+        ]
+       },
+       {
+        "name": "南台灣",
+        "children": [
+         {"name": "嘉義市", "size": 208},
+         {"name": "嘉義縣", "size": 316},
+         {"name": "台南市", "size": 589},
+         {"name": "高雄市", "size": 870},
+         {"name": "屏東縣", "size": 445},
+         {"name": "澎湖縣", "size": 37}
+        ]
+       },
+       {
+        "name": "東台灣",
+        "children": [
+         {"name": "花蓮縣", "size": 160},
+         {"name": "台東縣", "size": 77}
+        ]
+       },
+       {
+        "name": "福建金馬",
+        "children": [
+         {"name": "金門縣", "size": 31},
+         {"name": "連江縣", "size": 0}
+        ]
+       }
+      ]
+     },
+     {
+        "name": "106",
+        "children": [
+         {
+          "name": "中台灣",
+          "children": [
+           {"name": "苗栗縣", "size": 183},
+           {"name": "台中市", "size": 1069},
+           {"name": "彰化縣", "size": 334},
+           {"name": "南投縣", "size": 102},
+           {"name": "雲林縣", "size": 203}
+          ]
+         },
+         {
+          "name": "北台灣",
+          "children": [
+           {"name": "台北市", "size": 983},
+           {"name": "新北市", "size": 2794},
+           {"name": "基隆市", "size": 427},
+           {"name": "桃園市", "size": 950},
+           {"name": "新竹市", "size": 175},
+           {"name": "新竹縣", "size": 151},
+           {"name": "宜蘭縣", "size": 188}
+          ]
+         },
+         {
+          "name": "南台灣",
+          "children": [
+           {"name": "嘉義市", "size": 174},
+           {"name": "嘉義縣", "size": 137},
+           {"name": "台南市", "size": 515},
+           {"name": "高雄市", "size": 922},
+           {"name": "屏東縣", "size": 400},
+           {"name": "澎湖縣", "size": 51}
+          ]
+         },
+         {
+          "name": "東台灣",
+          "children": [
+           {"name": "花蓮縣", "size": 126},
+           {"name": "台東縣", "size": 55}
+          ]
+         },
+         {
+          "name": "福建金馬",
+          "children": [
+           {"name": "金門縣", "size": 62},
+           {"name": "連江縣", "size": 0}
+          ]
+         }
+        ]
+       },
+       {
+        "name": "105",
+        "children": [
+         {
+          "name": "中台灣",
+          "children": [
+           {"name": "苗栗縣", "size": 101},
+           {"name": "台中市", "size": 1065},
+           {"name": "彰化縣", "size": 325},
+           {"name": "南投縣", "size": 119},
+           {"name": "雲林縣", "size": 176}
+          ]
+         },
+         {
+          "name": "北台灣",
+          "children": [
+           {"name": "台北市", "size": 1144},
+           {"name": "新北市", "size": 2526},
+           {"name": "基隆市", "size": 373},
+           {"name": "桃園市", "size": 1030},
+           {"name": "新竹市", "size": 142},
+           {"name": "新竹縣", "size": 166},
+           {"name": "宜蘭縣", "size": 171}
+          ]
+         },
+         {
+          "name": "南台灣",
+          "children": [
+           {"name": "嘉義市", "size": 212},
+           {"name": "嘉義縣", "size": 137},
+           {"name": "台南市", "size": 439},
+           {"name": "高雄市", "size": 1113},
+           {"name": "屏東縣", "size": 412},
+           {"name": "澎湖縣", "size": 28}
+          ]
+         },
+         {
+          "name": "東台灣",
+          "children": [
+           {"name": "花蓮縣", "size": 167},
+           {"name": "台東縣", "size": 89}
+          ]
+         },
+         {
+          "name": "福建金馬",
+          "children": [
+           {"name": "金門縣", "size": 0.64},
+           {"name": "連江縣", "size": 1}
+          ]
+         }
+        ]
+       },
+       {
+        "name": "104",
+        "children": [
+         {
+          "name": "中台灣",
+          "children": [
+           {"name": "苗栗縣", "size": 125},
+           {"name": "台中市", "size": 1067},
+           {"name": "彰化縣", "size": 271},
+           {"name": "南投縣", "size": 0.84},
+           {"name": "雲林縣", "size": 100}
+          ]
+         },
+         {
+          "name": "北台灣",
+          "children": [
+           {"name": "台北市", "size": 1273},
+           {"name": "新北市", "size": 2229},
+           {"name": "基隆市", "size": 365},
+           {"name": "桃園市", "size": 1289},
+           {"name": "新竹市", "size": 235},
+           {"name": "新竹縣", "size": 218},
+           {"name": "宜蘭縣", "size": 152}
+          ]
+         },
+         {
+          "name": "南台灣",
+          "children": [
+           {"name": "嘉義市", "size": 187},
+           {"name": "嘉義縣", "size": 129},
+           {"name": "台南市", "size": 617},
+           {"name": "高雄市", "size": 983},
+           {"name": "屏東縣", "size": 367},
+           {"name": "澎湖縣", "size": 23}
+          ]
+         },
+         {
+          "name": "東台灣",
+          "children": [
+           {"name": "花蓮縣", "size": 154},
+           {"name": "台東縣", "size": 66}
+          ]
+         },
+         {
+          "name": "福建金馬",
+          "children": [
+           {"name": "金門縣", "size": 66},
+           {"name": "連江縣", "size": 2}
+          ]
+         }
+        ]
+       },
+       {
+        "name": "103",
+        "children": [
+         {
+          "name": "中台灣",
+          "children": [
+           {"name": "苗栗縣", "size": 142},
+           {"name": "台中市", "size": 883},
+           {"name": "彰化縣", "size": 451},
+           {"name": "南投縣", "size": 73},
+           {"name": "雲林縣", "size": 144}
+          ]
+         },
+         {
+          "name": "北台灣",
+          "children": [
+           {"name": "台北市", "size": 1234},
+           {"name": "新北市", "size": 1740},
+           {"name": "基隆市", "size": 424},
+           {"name": "桃園市", "size": 1420},
+           {"name": "新竹市", "size": 259},
+           {"name": "新竹縣", "size": 182},
+           {"name": "宜蘭縣", "size": 191}
+          ]
+         },
+         {
+          "name": "南台灣",
+          "children": [
+           {"name": "嘉義市", "size": 210},
+           {"name": "嘉義縣", "size": 86},
+           {"name": "台南市", "size": 580},
+           {"name": "高雄市", "size": 889},
+           {"name": "屏東縣", "size": 361},
+           {"name": "澎湖縣", "size": 53}
+          ]
+         },
+         {
+          "name": "東台灣",
+          "children": [
+           {"name": "花蓮縣", "size": 176},
+           {"name": "台東縣", "size": 55}
+          ]
+         },
+         {
+          "name": "福建金馬",
+          "children": [
+           {"name": "金門縣", "size": 17},
+           {"name": "連江縣", "size": 2}
+          ]
+         }
+        ]
+       }
+    ]
+   }
